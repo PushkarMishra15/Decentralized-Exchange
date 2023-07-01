@@ -1,0 +1,87 @@
+#Daddress {
+  position: absolute;
+  width: 410px;
+  height: 71px;
+  left: 240px;
+  top: 250px;
+  background: #301e60;
+  border-style: none;
+  border-radius: 15px;
+  /* font-family: "Noto Sans"; */
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 42px;
+  letter-spacing: 0.07em;
+}
+
+#Taddress {
+    position: absolute;
+    width: 410px;
+    height: 71px;
+    left: 240px;
+    top: 399px;
+    background: #301e60;
+    border-style: none;
+    border-radius: 15px;
+    /* font-family: "Noto Sans"; */
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 42px;
+    letter-spacing: 0.07em;
+  }
+  
+  #Damount {
+    position: absolute;
+    width: 410px;
+    height: 71px;
+    left: 840px;
+    top: 399px;
+    background: #301e60;
+    border-style: none;
+    border-radius: 15px;
+    /* font-family: "Noto Sans"; */
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 42px;
+    letter-spacing: 0.07em;
+  }
+  
+  #Tamount {
+    position: absolute;
+    width: 410px;
+    height: 71px;
+    left: 840px;
+    top: 250px;
+    background: #301e60;
+    border-style: none;
+    border-radius: 15px;
+    /* font-family: "Noto Sans"; */
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 42px;
+    letter-spacing: 0.07em;
+  }
+  
+  .Sbtn{
+    position: absolute;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    color: #000000;
+    font-weight: 700;    
+    letter-spacing: 0.1em;
+    
+    color: #0E0134;
+    width: 200px;
+    height: 46px;
+    right: 702px;
+    bottom: 136px;
+    background: linear-gradient(96.18deg, #13C0CB 0%, #971CC2 193.93%);
+    border-style: none;
+    border-radius: 10px;
+  }

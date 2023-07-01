@@ -1,0 +1,104 @@
+body {
+    background-color:  #0E0134;
+  }
+
+h1{
+    color: white;
+    position: absolute;
+    width: 521px;
+    height: 70px;
+    left: 453px;
+    top: 77px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 38px;
+    line-height: 70px;
+}
+.Dbtn{
+position: absolute;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 35px;
+color: #000000;
+width: 161px;
+height: 46px;
+left: 120px;
+top: 216px;
+background: linear-gradient(96.18deg, #13C0CB 0%, #971CC2 193.93%);
+border-style: none;
+border-radius: 26px;
+}
+.Tbtn{
+    position: absolute;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 35px;
+    color: #000000;
+    width: 161px;
+    height: 46px;
+    right: 120px;
+    top: 216px;
+    background: linear-gradient(96.18deg, #13C0CB 0%, #971CC2 193.93%);
+    border-style: none;
+    border-radius: 26px;
+    }
+    
+    .Sbtn{
+        position: absolute;
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 35px;
+        color: #000000;
+        width: 161px;
+        height: 46px;
+        right: 690px;
+        bottom: 276px;
+        background: linear-gradient(96.18deg, #13C0CB 0%, #971CC2 193.93%);
+        border-style: none;
+        border-radius: 26px;
+        }
+          
+  #amount{
+    position: absolute;
+    width: 343px;
+    height: 58px;
+    left: 596px;
+    top: 284px;
+    border-radius: 20px;
+    border-style: none;
+    font-size: 20px;
+    background: #301E60;
+
+  }
+  input::placeholder {
+    color: #D1D1D1;
+    padding-left: 10px;
+   
+  }
+  select {
+    font-size: 12px;
+    position: absolute;
+    font-weight: 600;
+    top: 224px;
+    left: 714px;
+    width: 100px;
+    height: 30px;
+    border-radius: 8px;
+    font-family: Arial, Helvetica, sans-serif;
+    background: linear-gradient(96.18deg, #13C0CB 0%, #971CC2 193.93%);
+  }
+  option {
+    /* background-color: linear-gradient(96.18deg, #13C0CB 0%, #971CC2 193.93%); */
+    /* background-color: #13C0CB; */
+    color: #333;
+    padding: 8px;
+    width: 0px;
+    height: 10px;
+  }
